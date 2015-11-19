@@ -1,0 +1,8 @@
+README for NOAA-WeatherAnalysis
+
+Code for the second Reproducible Research course project. We explore the U.S. NOAA storm database and analyze which types of weather events cause the most damage to property, crops, and population health.
+
+----
+Main Output
+----
+The analysis is published on RPubs: http://rpubs.com/eaideal/WeatherAnalysis.
